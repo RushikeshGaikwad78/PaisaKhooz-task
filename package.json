@@ -1,0 +1,18 @@
+{
+  "name": "paisakhooz-task",
+  "version": "1.0.0",
+  "description": "This repository is created to complete the task of PaisaKhooz.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon Backend/index.js",
+    "start": "node Backend/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
